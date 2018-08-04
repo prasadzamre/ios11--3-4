@@ -1,0 +1,6 @@
+framework module Pods_Todoey_with_Firebase {
+  umbrella header "Pods-Todoey with Firebase-umbrella.h"
+
+  export *
+  module * { export * }
+}
